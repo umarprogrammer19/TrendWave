@@ -1,5 +1,11 @@
+import HomePages from "./(Pages)/home/page";
+
+
 export default function Home() {
   return (
-    <div>Hello World</div>
+
+    <>
+<HomePages/>
+    </>
   );
 }
