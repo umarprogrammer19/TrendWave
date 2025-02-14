@@ -5,10 +5,9 @@ import ProductList from "@/components/shop/WishlistSection";
 export default function Wishlist() {
   return (
     <>
-    <ProductList/>
-    <FeaturesSection/>
-    <Newsletter/>
+      <ProductList />
+      <FeaturesSection />
+      <Newsletter />
     </>
   );
 }
-     

@@ -12,20 +12,18 @@ import TopCategories from "@/components/Home/topCategory";
 
 export default function HomePages() {
   return (
-
     <>
-    <HeroSection/>
-    <NewCollection/>
-    <TopCategories/>
-    <ShopProducts/>
-    <DealOfTheWeek/>
-    <ShopProducts/>
-    <BrandSection/>
-    <TestimonialSection/>
-    <BlogsSection/>
-    <NewsletterSection/>
-    <FeaturesSection/>
+      <HeroSection />
+      <NewCollection />
+      <TopCategories />
+      <ShopProducts />
+      <DealOfTheWeek />
+      <ShopProducts />
+      <BrandSection />
+      <TestimonialSection />
+      <BlogsSection />
+      <NewsletterSection />
+      <FeaturesSection />
     </>
   );
 }
-     
