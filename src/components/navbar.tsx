@@ -35,7 +35,7 @@ const Navbar = () => {
               <Link href="#" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Shop Grid</Link>
               <Link href="#" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Shop Left Sidebar</Link>
               <Link href="#" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Shop Right Sidebar</Link>
-              <Link href="#" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Product Details</Link>
+              <Link href="/productdetail" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Product Details</Link>
               <Link href="/cart" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Cart</Link>
               <Link href="/checkout" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Checkout</Link>
               <Link href="/wishlist" className="block px-4 py-2 text-black hover:bg-orange-500 hover:text-white">Wishlist</Link>
