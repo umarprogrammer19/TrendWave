@@ -5,9 +5,8 @@ import Newsletter from "@/components/shop/ourNewLetter";
 export default function Cart() {
   return (
     <>
-    <CartSection/>
-    <Newsletter/>
+      <CartSection />
+      <Newsletter />
     </>
   );
 }
-     
